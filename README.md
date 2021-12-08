@@ -23,18 +23,18 @@ My objectives in the software development area are updating my knowledge in this
 
 As a software developer, I found that my most significant accomplishments in my careers are self-dependency, teamwork, problem-solving, time scheduling and eagerness to learn, extremely motivated and committed to delivering the highest standard of work.
 
-• Specialties: Java 8 & Java Enterprise Edition , Java FX, HTML 5 & CSS3 , JavaScript ,TypeScript , PHP
-• Frameworks & Libraries: Hibernate , Spring , JPA , Sencha ExtJS , Jquery , XML , JSON ,Angular , SASS , React.JS & Redux ,Node.JS
-• IDE & Text editor : NetBean, IntelliJ, Eclipse, Atom, WebStorm, VirtualBasic
-• Application servers & Web Servers: JBoss, Glassfish, Apache Tomcat Cloud Base: AWS serverless, Firebase,
-• Version control tools: GIT, SVN ,
-• Databases: Oracle, MySQL, MongoDB, Postgres , AWS DynamoDB
-• Build System Tools: Maven, Grunt, Webpack
-• CI Tools: Jenkins,
-• Unit Testing: JUnit, Jasmine, Karma
-• Project Management & Workflow, Documentation & Software Methodology: Scrum, Jira ticket, Confluence, MediaWiki, UML, HCI
-• UX Design Tools: Adobe Photoshop, Adobe Illustrator, After Effect, GIMP, SVG Motions
-• OS: Windows, Ubuntu, Mac 
+  • Specialties: Java 8 & Java Enterprise Edition , Java FX, HTML 5 & CSS3 , JavaScript ,TypeScript , PHP
+  • Frameworks & Libraries: Hibernate , Spring , JPA , Sencha ExtJS , Jquery , XML , JSON ,Angular , SASS , React.JS & Redux ,Node.JS
+  • IDE & Text editor : NetBean, IntelliJ, Eclipse, Atom, WebStorm, VirtualBasic
+  • Application servers & Web Servers: JBoss, Glassfish, Apache Tomcat Cloud Base: AWS serverless, Firebase,
+  • Version control tools: GIT, SVN ,
+  • Databases: Oracle, MySQL, MongoDB, Postgres , AWS DynamoDB
+  • Build System Tools: Maven, Grunt, Webpack
+  • CI Tools: Jenkins,
+  • Unit Testing: JUnit, Jasmine, Karma
+  • Project Management & Workflow, Documentation & Software Methodology: Scrum, Jira ticket, Confluence, MediaWiki, UML, HCI
+  • UX Design Tools: Adobe Photoshop, Adobe Illustrator, After Effect, GIMP, SVG Motions
+  • OS: Windows, Ubuntu, Mac 
 
 
 ### Checkout my Gists https://gist.github.com/AJ-7885
