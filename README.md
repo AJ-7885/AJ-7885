@@ -39,7 +39,7 @@ As a software developer, I found that my most significant accomplishments in my 
 
 ### Checkout my Gists https://gist.github.com/AJ-7885
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ciamac-da&theme=chartreuse-dark&show_icons=true)](https://github.com/AJ-7885/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AJ-7885&theme=chartreuse-dark&show_icons=true)](https://github.com/AJ-7885/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciamac-da&theme=chartreuse-dark&show_icons=true)](https://github.com/AJ-7885/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJ-7885&theme=chartreuse-dark&show_icons=true)](https://github.com/AJ-7885/github-readme-stats)
 
