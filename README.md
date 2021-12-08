@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I Graduated in Software Engineering with more than 19 years experience in Web application, software development and interactive multimedia programming in various domains. Experienced in designing and developing Service Oriented & Object Oriented solutions. Excellent analytical, Design and Problem-solving skills.
 
-User Experience designer and Expert Software Engineer with in-depth knowledge of HTML, CSS , JavaScript and Java.
+User Experience designer and Expert Software Engineer with in-depth knowledge of HTML, CSS , JavaScript as well as solid understanding of Java language.
 
 My objectives in the software development area are updating my knowledge in this theater, improve my skills, acquiring new features and frameworks for enterprises and used my learned knowledge in resolving novel problems.
 
