@@ -23,18 +23,19 @@ My objectives in the software development area are updating my knowledge in this
 
 As a software developer, I found that my most significant accomplishments in my careers are self-dependency, teamwork, problem-solving, time scheduling and eagerness to learn, extremely motivated and committed to delivering the highest standard of work.
 
-* Specialties: Java 8 & Java Enterprise Edition , Java FX, HTML 5 & CSS3 , JavaScript ,TypeScript , PHP
-* Frameworks & Libraries: Hibernate , Spring , JPA , Sencha ExtJS , Jquery , XML , JSON ,Angular , SASS , React.JS & Redux ,Node.JS
-* IDE & Text editor : NetBean, IntelliJ, Eclipse, Atom, WebStorm, VirtualBasic
-* Application servers & Web Servers: JBoss, Glassfish, Apache Tomcat Cloud Base: AWS serverless, Firebase,
-*  Version control tools: GIT, SVN ,
-* Databases: Oracle, MySQL, MongoDB, Postgres , AWS DynamoDB
-* Build System Tools: Maven, Grunt, Webpack
-* CI Tools: Jenkins,
-* Unit Testing: JUnit, Jasmine, Karma
-* Project Management & Workflow, Documentation & Software Methodology: Scrum, Jira ticket, Confluence, MediaWiki, UML, HCI
-* UX Design Tools: Adobe Photoshop, Adobe Illustrator, After Effect, GIMP, SVG Motions 
-* OS: Windows, Ubuntu, Mac 
+* <strong>Specialties:  HTML 5 & CSS3 , JavaScript ,TypeScript 
+* <strong>Other Languages: Java 8 & Java Enterprise Edition , Java FX,
+* <strong>Frameworks & Libraries: Node.JS,  React.JS, NextJS, Jquery , XML , JSON ,Angular , SASS , & Redux ,Node.JS ,  Hibernate , Spring , JPA , Sencha ExtJS ,
+* <strong>IDE & Text editor</strong>: IntelliJ, VSCode, Atom.
+* <strong>Application servers & Web Servers</strong>: AWS, Firebase, Google Cloud, Open Shift, Glassfish, Apache Tomcat 
+* <strong>Version control tools</strong>: GIT, SVN, Github, Bitbucket
+* <strong>Databases</strong>: Oracle, MySQL, MongoDB, Postgres, AWS DynamoDB
+* <strong>Build System Tools</strong>: Webpack, Grunt, Maven
+* <strong>CI Tools</strong>: Jenkins, Gitbub Action, Travis CI
+* <strong>Unit Testing</strong>: Jest, JUnit, React Testing Library, Cypress 
+* <strong>Project Management & Workflow, Documentation & Software Methodology</strong>: Scrum, Jira ticket, Confluence, MediaWiki, UML, HCI
+* <strong>UX Design Tools</strong>: Adobe Photoshop, Adobe Illustrator, After Effect, GIMP, SVG Motions 
+* <strong>OS</strong>: Windows, Ubuntu, Mac 
 
 
 ### Checkout my Gists https://gist.github.com/AJ-7885
