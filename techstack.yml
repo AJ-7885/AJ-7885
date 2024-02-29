@@ -1,7 +1,8 @@
 repo_name: AJ-7885/AJ-7885
 report_id: c6d2a432a6a24810da46867324d4d28e
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-12T13:14:36+00:00'
+timestamp: '2024-02-29T18:40:35+00:00'
 requested_by: AJ-7885
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/AJ-7885/AJ-7885
   detection_source: Repo Metadata
