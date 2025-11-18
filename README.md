@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I graduated in Software Engineering with more than 15 years of experience in a Web application, software development, and interactive multimedia programming in various domains. Experienced in designing and developing Service Oriented & Object Oriented solutions. Excellent analytical, Design, and Problem-solving skills.
+I graduated in Software Engineering with more than 24 years of experience in a Web application, software development, and interactive multimedia programming in various domains. Experienced in designing and developing Service Oriented & Object Oriented solutions. Excellent analytical, Design, and Problem-solving skills.
 
 User Experience Designer and Expert Software Engineer with in-depth knowledge of HTML, CSS, JavaScript as well as a solid understanding of Java language.
 
